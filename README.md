@@ -1,4 +1,4 @@
-Some archive no not contain ng2 libraries (node_modules dir) to save space.  Following lists which "node_modules" directory is associated with which arhcive.
+Some archive do not contain ng2 libraries (node_modules dir) to save space.  Following lists which "node_modules" directory is associated with which arhcive.
 
 Common node_mdoules 1:
 quickstart.*
