@@ -4,6 +4,7 @@ Common node_mdoules 1:
 quickstart.*
 bigPicture.*
 dataBinding.* 
+modelForms.*
 
 Common node_modules 2:
 componentReuse.*
