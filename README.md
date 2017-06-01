@@ -10,4 +10,5 @@ Common node_modules 2:
 componentReuse.*
 renderHtml.*
 templateForms.*
+server.*
 dynamicForms.*
